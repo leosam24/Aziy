@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.009029431, g: 0.013123395, b: 0.02053957, a: 1}
+  m_IndirectSpecularColor: {r: 0.008863326, g: 0.013013883, b: 0.020206703, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1082,6 +1082,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   landingPage: {fileID: 2133103447}
+  mintingUI: {fileID: 0}
+  mintButton: {fileID: 0}
+  collectionsButton: {fileID: 0}
 --- !u!1 &417783064
 GameObject:
   m_ObjectHideFlags: 0
@@ -3248,7 +3251,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2133103448
 RectTransform:
   m_ObjectHideFlags: 0
